@@ -2,10 +2,6 @@
 
 In this project, we have used vectorizers and multiple machine learning algorithms to classify fake news articles using sci-kit libraries from python.
 
-<h2> Since GitHub allows uploaded file size to be not more than 25MB, we were unable to upload out datasets. Do download the datasets (Fake.csv, True.csv, fake_and_real_news.csv) from the given drive link before running the codes, and place it in the same repository as the codes.</h2>
-		
-		 https://drive.google.com/drive/folders/1Jf5p5buBHd0J4uHc9Ptbf_65DjMV6Fup?usp=sharing
-
 
 <h3>1. Getting Started:-</h3>
 	These instructions will get you a copy of the project up and running on your local machine for testing purposes.
@@ -83,6 +79,10 @@ In this project, we have used vectorizers and multiple machine learning algorith
       
       
 <h3>6. Steps of Execution:</h3>
+
+   <h2> Since GitHub allows uploaded file size to be not more than 25MB, we were unable to upload out datasets. Do download the datasets (Fake.csv, True.csv, fake_and_real_news.csv) from the given drive link before running the codes, and place it in the same repository as the codes.</h2>
+		
+		       https://drive.google.com/drive/folders/1Jf5p5buBHd0J4uHc9Ptbf_65DjMV6Fup?usp=sharing
 
   <h5>1. The first step, if would be to clone this repo in a folder in your local machine. To do that you need to go to the directory you choose to save the repository codes (make sure the same directory contains the downloaded datasets from the drive as well) and run following command in git bash.</h5>
   		
