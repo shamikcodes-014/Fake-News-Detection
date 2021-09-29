@@ -69,7 +69,7 @@ In this project, we have used vectorizers and multiple machine learning algorith
       
    e. Fake_News_Dect.py - In this file, we performed the flask methodologies to implement the webapp. Here we have received the input news from the html file, and have loaded the pickle file which contains the loaded the Decision Tree Classifier. And used the Tfidf Vectorizer the same as in the .ipynb file to vectorize the input data. The pickle file predicts the label of the input news and returns 0 or 1 back to the html file. This is the file that needs to be executed in order to see the project.
       
-   f.fake_true.pkl - It is the pickle file where we have loaded the best performing classifier (Decision Tree) for easy implementation. With the use of the pickle file we will be able to run the model without the need the run the .ipynb file everytime.
+   f. fake_true.pkl - It is the pickle file where we have loaded the best performing classifier (Decision Tree) for easy implementation. With the use of the pickle file we will be able to run the model without the need the run the .ipynb file everytime.
       
 <h3>5. Folder Descriptions:</h3>
       
@@ -89,7 +89,7 @@ In this project, we have used vectorizers and multiple machine learning algorith
 				 cd C:/your cloned project folder path goes here/
    <h5>4. Then run the command (Make sure you have set up the PATH variable while installing Python).</h5>
 
-                $ python Fake_News_Dect.py
+                 python Fake_News_Dect.py
 
 <h5>5. After hitting the enter, program will open in your localhost server and ask for an input which will be a news text that you want to verify ( The news text has to be from the fake_and_real_news.csv file since the project is static) . Once you paste or type news headline, then press enter.</h5>
 
