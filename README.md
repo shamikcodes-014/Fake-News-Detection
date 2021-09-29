@@ -2,6 +2,10 @@
 
 In this project, we have used vectorizers and multiple machine learning algorithms to classify fake news articles using sci-kit libraries from python.
 
+<h2> Since GitHub allows uploaded file size to be not more than 25MB, we were unable to upload out datasets. Do download the datasets (Fake.csv, True.csv, fake_and_real_news.csv) from the given drive link before running the codes, and place it in the same repository as the codes.</h2>
+		
+		 https://drive.google.com/drive/folders/1Jf5p5buBHd0J4uHc9Ptbf_65DjMV6Fup?usp=sharing
+
 
 <h3>1. Getting Started:-</h3>
 	These instructions will get you a copy of the project up and running on your local machine for testing purposes.
@@ -19,7 +23,7 @@ In this project, we have used vectorizers and multiple machine learning algorith
    
    d. Pandas
    
-   e. GitBash
+   e. GitBash (If you want to download the repository to run the code)
    
   <h3>3. Dataset Used:</h3>
     The datset used for this project is University of Victoria Fake News Detection Datasets which contains two .csv file (Fake.csv and True.csv) provided to us by our alumni Sreeja Bhattacharya
@@ -80,13 +84,19 @@ In this project, we have used vectorizers and multiple machine learning algorith
       
 <h3>6. Steps of Execution:</h3>
 
-  <h5>1. The first step, if would be to clone this repo in a folder in your local machine. To do that you need to go to the directory you choose to save the repository codes and run following command in git bash.</h5>
+  <h5>1. The first step, if would be to clone this repo in a folder in your local machine. To do that you need to go to the directory you choose to save the repository codes (make sure the same directory contains the downloaded datasets from the drive as well) and run following command in git bash.</h5>
   		
   			$ git clone https://github.com/shamikcodes-014/Fake-News-Detection.git
-   <h5>2. This will copy all the data source file, program files and model into your machine.</h5>
-	<h5>3. Now, open your command prompt, change the directory to the folder where you have stored the repository, and run the command.</h5>
+			
+   <h4>OR</h4>
+   <h5>1. Download all the files and folders from the drive link as place them in the same directory.</h5>
+   
+   			https://drive.google.com/drive/folders/1Jf5p5buBHd0J4uHc9Ptbf_65DjMV6Fup?usp=sharing
+   
+   
+   <h5>2. Now, open your command prompt, change the directory to the folder where you have stored the repository/codes.</h5>
 				  
-				 cd C:/your cloned project folder path goes here/
+				 cd C:/your project folder path goes here/
    <h5>4. Then run the command (Make sure you have set up the PATH variable while installing Python).</h5>
 
                  python Fake_News_Dect.py
