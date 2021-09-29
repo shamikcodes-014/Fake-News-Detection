@@ -19,7 +19,7 @@ In this project, we have used vectorizers and multiple machine learning algorith
    
    d. Pandas
    
-   e. GitBash (if you want to download the repository)
+   e. GitBash
    
   <h3>3. Dataset Used:</h3>
     The datset used for this project is University of Victoria Fake News Detection Datasets which contains two .csv file (Fake.csv and True.csv) provided to us by our alumni Sreeja Bhattacharya
