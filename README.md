@@ -90,7 +90,7 @@ In this project, we have used vectorizers and multiple machine learning algorith
   			$ git clone https://github.com/shamikcodes-014/Fake-News-Detection.git
 			
    <h4>OR</h4>
-   <h5>1. Download all the files and folders from the drive link as place them in the same directory.</h5>
+   <h5>1. Download all the files and folders from the drive link and place them in the same directory.</h5>
    
    			https://drive.google.com/drive/folders/1Jf5p5buBHd0J4uHc9Ptbf_65DjMV6Fup?usp=sharing
    
