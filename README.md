@@ -107,7 +107,7 @@ In this project, we have used vectorizers and multiple machine learning algorith
 <h5>6. Once you hit the enter, program will take user input (news text) and will be used by model to classify in one of categories of "True" and "False".
 
 
-
+https://user-images.githubusercontent.com/71573124/135656949-d39c317f-38f0-4e58-b34a-a248139ace7f.mp4
 
 			
     
